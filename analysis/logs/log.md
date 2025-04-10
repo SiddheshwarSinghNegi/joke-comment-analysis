@@ -4,23 +4,23 @@
 Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-activity-and-worksheet#:~:text=%22Rose%2C%20Bud%2C%20Thorn%22%20is%20a%20mindful%20design%2D,day%2C%20week%2C%20or%20month.) model:
 
 ### Date: 
-Week number, today's date, etc. 
+Week 2 — April 4, 2025
 
 
 ### Number of hours: 
-A quantity of hours, maybe towards specific tasks. 
+~23 hours
 
 ### Rose:
-The highlight from the previous weekly/bi-weekly working period, such as something you found particularly rewarding. This could also be something you're excited to implement now.
+This week, I finalized and signed off on the proposal and milestone timeline, ensuring that our project phases are well defined and executable. I also contributed to refining the responsibility table, mapping out key deliverables per member. It felt great to help anchor the structure of the project while maintaining a balance between technical feasibility and academic goals.
 
 ### Bud: 
-Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your research in the future. 
+I’m eager to start working on engagement analysis logic, particularly measuring how joke comments correlate with video likes, views, and replies. I’m also enthusiastic about tackling the emoji and hashtag processing stretch goal, as it adds an exciting layer of nuance to humor detection.
 
 ### Thorn: 
-Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. 
+We’re beginning to see how joke detection isn’t always straightforward, especially with sarcasm, slang, and cultural context involved. Integrating that understanding into our models will be tricky. Also, coordinating edits across the team has introduced minor version control friction during documentation.
 
 ## Additional thought
-Write anything that you think would be important for YOU later on.
+We're at a crucial moment—locking the scope now prevents feature creep later. I want to make sure that we keep the analysis tight and meaningful. A future version of this work could definitely evolve into a plugin or API for educational YouTubers. Need to keep track of that idea for potential post-course development.
 
 ---
 
